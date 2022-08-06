@@ -1,0 +1,124 @@
+/* common start here */
+.body {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: #202124;
+}
+/* common end here */
+
+/* middle container start here */
+.c_container {
+  margin-top: 150px;
+  padding: 48px 42px;
+  border-radius: 8px;
+  border: 1px solid #dadce0;
+}
+
+.c1_bd {
+  height: 550px;
+  /* border: 1px solid red; */
+}
+
+.c2_bd {
+  /* border: 1px solid blue; */
+}
+
+input::placeholder{
+  font-size: 16px;
+}
+
+/* left side */
+.l_logo{
+  padding-bottom: 16px;
+}
+
+.logo {
+  width: 100px; !important
+}
+
+.l_header{
+  padding-bottom: 30px;
+}
+
+.l_h2{
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 400;
+  font-size: 30px;
+  color: #202124;
+}
+
+.name{
+  padding-bottom: 25px;
+}
+
+.email{
+  padding-bottom: 18px;
+}
+
+.g_part{
+  background-color: white;
+}
+
+.f_txt{
+  padding-left: 11px;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 13px;
+
+}
+
+
+.another{
+  padding-bottom: 35px;
+}
+
+.check{
+  padding: 10px 0;
+}
+
+.c_check{
+padding-left: 30px;
+}
+
+.check_text{
+  padding-left: 6px;
+  font-size: 15px;
+}
+
+.op-link{
+  padding: 5px 10px;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+
+}
+
+.op-link:hover{
+  background:var(--gm-colortextbutton-ink-color,#1a73e810);
+  border-radius: 5px;
+}
+
+.signin{
+  padding-top: 60px;
+}
+
+.btn-custom{
+  margin-left: 15px;
+  padding: 6px 22px;
+}
+/* right side */
+.r_side {
+}
+
+.r_img {
+  margin-top: 85px;
+  margin-left: 37px;
+  width: 243px;
+
+}
+
+.r_p {
+  padding: 3px 35px;
+  text-align: center;
+}
+/* middle container end here */
